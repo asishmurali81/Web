@@ -8,5 +8,6 @@ namespace Core.DataAccess
 {
     public class Class1
     {
+		int i=0;
     }
 }
